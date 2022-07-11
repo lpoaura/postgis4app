@@ -1,4 +1,4 @@
-# Postgis for app
+# Postgis for app
 
 A custom Postgis Docker image to create an unprivileged with its own schema dedicated to apps.
 
