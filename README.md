@@ -10,3 +10,9 @@ Custom settings are:
 POSTGRES_APP_USER # Default is "app"
 POSTGRES_APP_PASSWORD # Default is generated with pwgen cmd
 ```
+
+## Equipe
+
+- @lpofredc (@lpofredc - LPO Auvergne-Rhône-Alpes)
+
+![logoLPO AuRA](https://raw.githubusercontent.com/lpoaura/biodivsport-widget/master/images/LPO_AuRA_l250px.png)
